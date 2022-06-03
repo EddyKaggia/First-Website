@@ -315,9 +315,11 @@ font-size: 5rem;
 }
 }
 
+@media (max-width: 600px){
 .scroll-down,
 .hero-scroll{
   display: none;
+}
 }
 
 /*SERVICES*/
