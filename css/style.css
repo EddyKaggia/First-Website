@@ -240,7 +240,7 @@ font-size: 5rem;
 
 .hero{
   background-color: #00004d;
-  background-image: url(/images/office.jpg);
+  background-image: url(images/office.jpg);
   background-size: cover;
   background-blend-mode:screen;
   color: #fff;
